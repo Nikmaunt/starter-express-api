@@ -25,7 +25,7 @@
     "helmet": "^7.0.0",
     "mongodb": "^5.8.1",
     "mongoose": "^7.5.4",
-    "mongoose-currency": "^0.2.0",
+    "mongoose-currency": "^0.4.0",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
